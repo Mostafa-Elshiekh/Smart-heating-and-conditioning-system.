@@ -1,4 +1,4 @@
- Smart Heating And Conditioning System
+Smart Heating And Conditioning System
 The project, in short, it is
 smart heating and conditioning system..first, the temperature sensor detects the air temperature and sells it to the Analog digital converter
 And then microcontrollers (AVR-Atmega32) treat the temperature and print it on the LCD
