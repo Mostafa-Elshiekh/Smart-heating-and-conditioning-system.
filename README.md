@@ -6,7 +6,7 @@
 **"Air conditioner mood"**.
 * 3-If the air temperature is from **20°: 30°**, the **heater and air conditioning green LED will be disconnected** as an alarm and it is **displayed** on the LCD that this is the **"default mood"** and so on..
 
-                             <img src="https://media.giphy.com/media/W4PYUn8FnTkD1tYOSS/giphy.gif" width="720" height="400" />
+<img src="https://media.giphy.com/media/W4PYUn8FnTkD1tYOSS/giphy.gif" width="720" height="400" />
 
 
 
