@@ -1,4 +1,4 @@
-# Smart heating and conditioning system.
+# Smart heating and conditioning system
 ## first ,the **temperature sensor** detects the air temperature and sells it to the **Analog digital converterAnd** then microcontrollers (AVR-Atmega32) treat the temperature and print it on the **LCD**.
 * 1-If the air temperature is **20 or less**, **turn on the heater** and **light up the RED LED** as an alarm and **display it** on the **LCD** of this 
 **"Heater Mood"**.
